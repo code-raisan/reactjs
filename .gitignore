@@ -10,7 +10,8 @@
 
 # production
 #Use Github Pages
-#/build
+#/docs
+/build
 
 # misc
 .DS_Store
