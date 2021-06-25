@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <main>
         <h1>
-          Hello ReactJS
+          Hello ReactJS!
           <span>
             <img src={logo} alt="logo" className="title_logo" />
           </span>
